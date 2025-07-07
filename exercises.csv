@@ -1,0 +1,51 @@
+ExerciseID,Name,MuscleGroup,Type,Description,LimbType,IsMachine
+1,Preacher Curl (Plate),Biceps,Plates,"Bilateral preacher curl to target the biceps, not usually used for max reps",bilateral,0
+2,Preacher Curl (Barbell),Biceps,Machine Weighted,"Bilateral preacher curl to target the biceps, not usually used for max reps",bilateral,1
+3,Tricep Dips,Triceps,Compound,"Compound movement, usually for maximum reps",bilateral,0
+4,Extension (Single-grip),Triceps,Isolation,"Isolation movement, usually for maximum reps",unilateral,1
+5,Bench Press,Chest,Compound,"Classic upper body pressing movement",bilateral,0
+6,Incline Bench Press,Chest,Compound,"Targets upper chest and shoulders",bilateral,0
+7,Decline Bench Press,Chest,Compound,"Focuses on lower chest muscles",bilateral,0
+8,Dumbbell Fly,Chest,Isolation,"Isolation movement for chest using dumbbells",bilateral,0
+9,Cable Crossover,Chest,Isolation,"Cable movement to target inner chest",bilateral,1
+10,Pec Deck Machine,Chest,Machine Weighted,"Machine for isolating chest with support",bilateral,1
+11,Lat Pulldown,Back,Machine Weighted,"Vertical pulling motion targeting lats",bilateral,1
+12,Pull-Up,Back,Bodyweight,"Bodyweight vertical pull exercise for back",bilateral,0
+13,Barbell Row,Back,Compound,"Horizontal row with barbell",bilateral,0
+14,Seated Cable Row,Back,Machine Weighted,"Seated machine for horizontal pulls",bilateral,1
+15,Deadlift,Back,Compound,"Full-body pulling movement, builds posterior chain",bilateral,0
+16,Face Pulls,Shoulders,Isolation,"Targets rear delts and traps",bilateral,1
+17,Overhead Press (Barbell),Shoulders,Compound,"Vertical pressing movement",bilateral,0
+18,Dumbbell Lateral Raise,Shoulders,Isolation,"Targets lateral deltoids",unilateral,0
+19,Dumbbell Front Raise,Shoulders,Isolation,"Targets anterior deltoids",unilateral,0
+20,Smith Machine Press,Shoulders,Machine Weighted,"Vertical press with guided bar",bilateral,1
+21,Barbell Curl,Biceps,Isolation,"Straight bar curl for biceps",bilateral,0
+22,Hammer Curl,Biceps,Isolation,"Targets brachialis and biceps",unilateral,0
+23,Concentration Curl,Biceps,Isolation,"Isolates biceps with seated dumbbell curl",unilateral,0
+24,Cable Curl,Biceps,Machine Weighted,"Cable variation for constant tension",bilateral,1
+25,Skull Crushers,Triceps,Isolation,"Lying tricep extension with barbell",bilateral,0
+26,Overhead Tricep Extension,Triceps,Isolation,"Targets long head of triceps",unilateral,0
+27,Tricep Rope Pushdown,Triceps,Machine Weighted,"Cable pushdown using rope attachment",bilateral,1
+28,Leg Press,Legs,Machine Weighted,"Machine for pressing with legs",bilateral,1
+29,Back Squat,Legs,Compound,"Compound movement for quads, glutes, and hamstrings",bilateral,0
+30,Front Squat,Legs,Compound,"Targets quads more than back squat",bilateral,0
+31,Lunges,Legs,Compound,"Alternating unilateral leg movement",unilateral,0
+32,Leg Curl Machine,Hamstrings,Machine Weighted,"Isolation movement for hamstrings",bilateral,1
+33,Leg Extension,Quads,Machine Weighted,"Machine-based quad isolation",bilateral,1
+34,Calf Raise (Machine),Calves,Machine Weighted,"Machine-based exercise for calves",bilateral,1
+35,Standing Calf Raise,Calves,Bodyweight,"Bodyweight or dumbbell exercise for calves",bilateral,0
+36,Seated Calf Raise,Calves,Machine Weighted,"Isolates soleus muscle of the calves",bilateral,1
+37,Hip Thrust,Glutes,Compound,"Glute-focused hip extension exercise",bilateral,0
+38,Glute Kickback,Glutes,Isolation,"Cable machine glute isolation",unilateral,1
+39,Ab Crunch Machine,Abs,Machine Weighted,"Crunches using machine resistance",bilateral,1
+40,Plank,Abs,Bodyweight,"Isometric core stabilisation exercise",bilateral,0
+41,Russian Twists,Abs,Bodyweight,"Rotational core exercise",bilateral,0
+42,Leg Raises,Abs,Bodyweight,"Targets lower abdominal muscles",bilateral,0
+43,Woodchoppers,Obliques,Machine Weighted,"Rotational core movement using cables",unilateral,1
+44,Cable Side Bends,Obliques,Isolation,"Isolates obliques with cable resistance",unilateral,1
+45,Kettlebell Swing,Full Body,Dynamic,"Explosive hip hinge targeting posterior chain",bilateral,0
+46,Battle Ropes,Full Body,Conditioning,"High-intensity rope slams for endurance",bilateral,0
+47,Tire Flip,Full Body,Strongman,"Heavy flip movement using whole body",bilateral,0
+48,Farmers Carry,Grip,Functional,"Walking with heavy dumbbells/kettlebells",bilateral,0
+49,Reverse Fly,Shoulders,Isolation,"Targets rear deltoids and upper back",bilateral,0
+50,Cable Shrugs,Traps,Isolation,"Cable-based shrug for trapezius",bilateral,1
