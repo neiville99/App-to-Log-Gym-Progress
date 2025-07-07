@@ -1,6 +1,7 @@
 # App-to-Log-Gym-Progress
 A basic app using SQL and Python the track my gym progress, as well as some machine learning algorithms to predict progress,
-and deliver personalised recommendations.
+and deliver personalised recommendations. This is slightly different to the one I use myself, the csv files are auto generated, 
+just so I could test the machine learning models. I will continue to make adjustments as I enter live data.
 
 **Core Functions**
 - Log Workouts: Specific exercises, sets, reps, weight, and mood
